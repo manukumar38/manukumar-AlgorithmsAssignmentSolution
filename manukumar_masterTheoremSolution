@@ -1,0 +1,5 @@
+a) T (n) = 3T (n/2) + n  Ans: O(n^{log_2(3)})
+b) T (n) = 64T (n/8) − n^2(log n)  Ans: O( n2log 1/n)
+c) T (n) = 2nT (n/2) + n^n  Ans:
+d) T (n) = 3T (n/3) + n/2  Ans:
+e) .T (n) = 7T (n/3) + n^2  Ans:
